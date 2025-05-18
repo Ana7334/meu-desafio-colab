@@ -90,7 +90,3 @@ alura-store/
  📌 Observações
 
 Este projeto foi desenvolvido como parte dos estudos em Data Science e análise de dados da plataforma Alura. Todos os dados são fictícios e utilizados apenas para fins educacionais.
-
----
-
-Se você quiser, posso gerar o `requirements.txt` com base nas bibliotecas que usou. É só me dizer quais foram, ou me mandar o notebook que eu analiso!
